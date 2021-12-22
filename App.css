@@ -1,0 +1,76 @@
+body {
+  background-color: lightblue;
+}
+.login {
+  margin-top: 7rem;
+  margin-left: 30rem;
+  width: 400px;
+  height:600px;
+  background: #fff;
+  border: 1px solid #dddfe2;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  border-radius: 8px;
+  padding: 1rem;
+  align-items: center;
+  text-align: center;
+}
+ label {
+   margin-bottom: 5px;
+  width:40%;
+color:rgb(179, 166, 166);
+  display:block;
+  padding-right: 80%;
+  text-align: left;
+  
+}
+
+ input {
+
+  width: 70%;
+    height: 5px;
+    color: hsl(0, 0, 20);
+    padding: 15px 40px 15px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    outline: none!important;
+    border: 1px solid hsla(0, 0, 0, 0.3);
+    box-shadow: inset 0 1px 4px hsla(0, 0, 0, 0.2);
+    vertical-align: top;
+}
+select{
+ 
+  width: 80%;
+    height: 5px;
+    color: hsl(0, 0, 20);
+    padding: 15px 40px 15px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    outline: none!important;
+    border: 1px solid hsla(0, 0, 0, 0.3);
+    box-shadow: inset 0 1px 4px hsla(0, 0, 0, 0.2);
+    vertical-align: top;
+}
+button {
+  display: block;
+  width: 100%;
+background: hsl(256, 98%, 48%);
+color: rgb(250, 250, 253);
+text-decoration: none;
+margin: 20px 0;
+padding: 15px 15px;
+border-radius: 5px;
+position: relative;
+  
+  outline: none;
+  cursor: pointer;
+}
+label1{
+  width:40%;
+color:rgb(179, 166, 166);
+  display:block;
+  padding-right: 80%;
+  text-align: left;
+}
+footer{
+  text-align: center;
+}
